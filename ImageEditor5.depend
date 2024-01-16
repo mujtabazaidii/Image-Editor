@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640105199 source:c:\codeblocks codes\imageeditor5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<cstdlib>
+
